@@ -1,0 +1,15 @@
+1. find out the insurence charge
+2. total 5 columns and 1338 rows
+3. using dummies method to preprocess the sexand smoker column
+
+
+milti-linear = 0.7389093130276878
+svm 
+sigmoid = 0.11748728971096334 
+ploy = -0.09658991733759015
+linear = 0.12317348593109023
+
+decision tree = 0.8435058268122119
+randon forest = 0.8536977464914028 
+
+final loaded model is random forest which is giving highest r2 value when compare to other model.
